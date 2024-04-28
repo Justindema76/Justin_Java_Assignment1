@@ -1,6 +1,12 @@
  // 2.19 What does the following code print? left aligned half xmax tree
 // System.out.printf("*%n**%n***%n****%n*****%n");
-
+/*
+ *  *
+    **
+    ***
+    ****
+    *****
+ */
 
 
 
