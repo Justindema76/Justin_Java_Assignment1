@@ -2,7 +2,7 @@
 
 ## Java Assignment Questions
 -  2.17 (Arithmetic, Smallest and Largest)
--  2.18 (Displaying Shapes with Asterisks)
+-  2.18 (Displaying Shapes with Asterisks) - NOT COMPLETE
 -  2.19  What does the following code print?
   > -  ANSWER - left aligned half xmax tree
   > - ***refer to java file***
