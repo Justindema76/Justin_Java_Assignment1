@@ -3,8 +3,6 @@
 ## Java Assignment Questions
 -  2.17 (Arithmetic, Smallest and Largest)
 -  2.19  What does the following code print?
-  > -  ANSWER - left aligned half xmax tree
-  > - ***refer to java file***
 - 2.24 (Largest and Smallest Integers)
 - 2.25 (Odd or Even)
 - 2.26 (Multiples)
